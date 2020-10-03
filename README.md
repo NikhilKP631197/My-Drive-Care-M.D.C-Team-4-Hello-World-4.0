@@ -23,7 +23,7 @@
 * AR Assessment
 * RFID Tag
 
-# Screenshot of App 📱
+# Screenshots of App 📱
 ![Untitled design-4](https://github.com/Harsh4601/My-Drive-Care-M.D.C-Team-4-Hello-World-4.0/blob/main/M.D.C%20Logo/app%20ss.png)
 ![Untitled design-4](https://github.com/Harsh4601/My-Drive-Care-M.D.C-Team-4-Hello-World-4.0/blob/main/M.D.C%20Logo/M.D.C.svg)
 
