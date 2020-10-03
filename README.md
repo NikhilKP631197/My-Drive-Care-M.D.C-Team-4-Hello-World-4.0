@@ -13,15 +13,15 @@
 ![Badge](https://img.shields.io/badge/CarService-Application-yellowgreen)
 
 # Introduction
-* A mobile app which acts as your car's manager
-* Takes care of services, payments, replacement
-* With the help of Machine Learning and Augmented Reality
+* A mobile app which acts as your car's manager 🚗🚗
+* Takes care of services, payments, replacement ⚙🛠💲
+* With the help of Machine Learning and Augmented Reality 
 
 # Functionality
-* ML Model
-* Smart Reminders
-* AR Assessment
-* RFID Tag
+* ML Model 🤖
+* Smart Reminders 📅
+* AR Assessment ✅
+* RFID Tag 💳
 
 # Screenshots of App 📱
 ![Untitled design-4](https://github.com/Harsh4601/My-Drive-Care-M.D.C-Team-4-Hello-World-4.0/blob/main/M.D.C%20Logo/app%20ss.png)
@@ -35,6 +35,10 @@
 * ARKit
 * AVKit 
 * Foundation
+
+# License ⚖️  
+
+MIT License<br> Please read the [License](https://github.com/NikhilKP631197/My-Drive-Care-M.D.C-Team-4-Hello-World-4.0) file for details.
 
 # Contributors
 [Gokul Nair](https://github.com/gokulnair2001)</br>
