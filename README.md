@@ -10,7 +10,7 @@
 ![badge](https://img.shields.io/badge/RFID-Tags-yellow)
 ![badge](https://img.shields.io/badge/iOS-14-blue)
 ![badge](https://img.shields.io/badge/Platfrom-iOS-orange)
-![Badge](https://img.shields.io/badge/Car Service-Application-yellowgreen)
+![Badge](https://img.shields.io/badge/CarService-Application-yellowgreen)
 
 # Introduction
 * A mobile app which acts as your car's manager
